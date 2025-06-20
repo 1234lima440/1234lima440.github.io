@@ -19,5 +19,6 @@
         <p>• Ecosistemas: Ríos, lagos y océanos son hábitats de muchas especies.</h2>
   <h2> ¿Por qué la debemos cuidar? 
     <p>El agua dulce es limitada solo un pequeño porcentaje del agua del planeta es apta para el consumo humano, muchas fuentes de agua están contaminadas por basura, químicos o desechos industriales. Afecta los patrones de lluvia y puede causar sequías o inundaciones no todas las personas en el mundo tienen acceso a agua potable.</h2>
-  
+  </body>
+  </html>
 
