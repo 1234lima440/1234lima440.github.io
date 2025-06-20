@@ -10,7 +10,7 @@
   <h1>
     La importancia del agua
   </h1>
-  <img src="/storage/emulated/0/Pictures/1.jpg" alt="Descripción de la imagen" class="tarjeta">
+  <img src="/storage/emulated/0/Imágenes /snooagua.jfif" alt="Descripción de la imagen" class="tarjeta">
   <h2> Importancia: 
     <p>• Vital para los seres vivos: Todos los organismos necesitan agua para sobrevivir.
     <p>• Uso humano: Se usa para beber, cocinar, lavar, limpiar y cultivar alimentos.
